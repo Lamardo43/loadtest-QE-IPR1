@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\klim3\Desktop\mail_message
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\klim3\desktop\mail_message\\logfile.log
+c:\users\klim3\desktop\mail_message\\combined_mail_message.c
+c:\users\klim3\desktop\mail_message\\pre_cci.c

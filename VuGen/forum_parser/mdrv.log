@@ -1,0 +1,39 @@
+Virtual User Script started at: 01.12.2023 21:46:31
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\klim3\Downloads\Telegram Desktop\LR\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 4  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(4): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(18): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(18): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(32): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(32): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(45): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(45): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(58): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(58): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(73): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(73): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(88): web_url("getHTML") started  	[MsgId: MMSG-26355]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/styles/style.css" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/images/profile.png" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/images/tony.jpg" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/images/witch.jpg" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/images/thor.jpg" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/images/brus.jpg" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "https://lamardo43.github.io/myproj-forum-page/images/loki.jpg" in HTML "https://lamardo43.github.io/myproj-forum-page/"  	[MsgId: MMSG-26659]
+Action.c(88): web_url("getHTML") was successful, 927282 body bytes, 6261 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

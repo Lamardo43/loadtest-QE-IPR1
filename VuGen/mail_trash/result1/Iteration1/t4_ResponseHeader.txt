@@ -1,0 +1,23 @@
+HTTP/2.0 200
+Status: 200
+server: nginx
+date: Fri, 01 Dec 2023 18:40:37 GMT
+content-type: text/html; charset=UTF-8
+x-host: fau41.m.smailru.net
+set-cookie: o=:2698:ABAA.s:2092:BAA=.m; Path=/; Domain=mail.ru; Expires=Sun, 01 Dec 2024 18:40:37 GMT
+x-mru-request-id: e5b0cb0b
+cache-control: no-cache,no-store,must-revalidate
+pragma: no-cache
+expires: Thu, 01 Dec 2022 18:40:37 GMT
+x-mru-sota-response: 1
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+critical-ch: Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Model, Sec-CH-UA-Full-Version-List
+accept-ch: Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Model, Sec-CH-UA-Full-Version-List
+x-xss-protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+content-security-policy: default-src 'none'; base-uri 'none'; script-src 'self' 'nonce-f6a4bd715f7e9c3196a645961666405d' https://img.imgsmail.ru https://portal.mail.ru https://portal.test.mail.ru https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://top-fwz1.mail.ru 'report-sample' https://limg.imgsmail.ru; style-src 'self' https://img.imgsmail.ru 'unsafe-inline' https://limg.imgsmail.ru; font-src https://img.imgsmail.ru; img-src 'self' data: https://img.imgsmail.ru https://stat.radar.imgsmail.ru https://rs.mail.ru https://www.tns-counter.ru https://top-fwz1.mail.ru https://filin.mail.ru https://r3.mail.ru https://c.mail.ru https://c.my.com https://*.userapi.com https://*.vk.com https://*.vk.ru https://vk.com https://vk.ru https://limg.imgsmail.ru https://retina.news.mail.ru https://xray.mail.ru https://ad.mail.ru https://trk.mail.ru https://r.mradx.net; connect-src 'self' https://portal.mail.ru https://auth.mail.ru https://*.auth.mail.ru https://aj-https.my.com https://account.mail.ru https://*.test.mail.ru https://login.vk.com https://login.vk.ru wss://rebus.e.mail.ru https://ok.ru https://bar.love.mail.ru https://vk.com https://vk.ru https://xray.mail.ru https://ad.mail.ru; child-src https://account.mail.ru https://*.test.mail.ru https://www.google.com/recaptcha/ https://auth.mail.ru https://connect.vk.com https://connect.vk.ru https://id.vk.com https://id.vk.ru https://marusia-web.go.mail.ru https://limg.imgsmail.ru; report-uri https://cspreport.mail.ru/login;
+x-host: fau41.m.smailru.net
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+x-content-type-options: nosniff
+vary: Referer
+content-encoding: gzip
+

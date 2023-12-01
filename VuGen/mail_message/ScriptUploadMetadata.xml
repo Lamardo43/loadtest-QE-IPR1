@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>mail_message</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="mail_message.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="DfeConfig\" Filter="4" />
+    <FileEntry Name="mail_message.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="owners.dat" Filter="2" />
+    <FileEntry Name="messages.dat" Filter="2" />
+    <FileEntry Name="id_param.dat" Filter="2" />
+    <FileEntry Name="some_token.dat" Filter="2" />
+    <FileEntry Name="login.dat" Filter="2" />
+    <FileEntry Name="themes.dat" Filter="2" />
+    <FileEntry Name="authid.dat" Filter="2" />
+    <FileEntry Name="underText.dat" Filter="2" />
+    <FileEntry Name="combined_mail_message.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="117343722440.idx" Filter="1" />
+    <FileEntry Name="121924469440.idx" Filter="1" />
+    <FileEntry Name="144607844440.idx" Filter="1" />
+    <FileEntry Name="14460784444_lCV.952.idx" Filter="1" />
+    <FileEntry Name="14460784444_Uce.752.idx" Filter="1" />
+    <FileEntry Name="163360295440.idx" Filter="1" />
+    <FileEntry Name="16336029544_59L.751.idx" Filter="1" />
+    <FileEntry Name="16336029544_Gsk.951.idx" Filter="1" />
+    <FileEntry Name="163512557440.idx" Filter="1" />
+    <FileEntry Name="16351255744_kc1.953.idx" Filter="1" />
+    <FileEntry Name="16351255744_wuE.753.idx" Filter="1" />
+    <FileEntry Name="221317865440.idx" Filter="1" />
+    <FileEntry Name="227700015440.idx" Filter="1" />
+    <FileEntry Name="30317164440.idx" Filter="1" />
+    <FileEntry Name="59993745440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mail_message.c.pickle" Filter="1" />
+    <FileEntry Name="mail_message.ci" Filter="1" />
+    <FileEntry Name="mail_message.prm.bak" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

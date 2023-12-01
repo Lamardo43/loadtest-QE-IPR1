@@ -1,0 +1,6 @@
+"folders=%5B%7B%22name%22%3A%22Folder%2317%22%2C%22id%22%3Anull%2C%22system%22%3Afalse%2C%22typ"
+"e%22%3A%22%22%2C%22parent%22%3A-1%2C%22open%22%3Atrue%2C%22security%22%3Afalse%2C%22messages_t"
+"otal%22%3A0%2C%22messages_unread%22%3A0%2C%22child%22%3Afalse%2C%22children%22%3Afalse%2C%22ar"
+"chive%22%3Afalse%2C%22collapse%22%3Afalse%2C%22only_web%22%3Afalse%7D%5D&email=zerkalo102%40ma"
+"il.ru&htmlencoded=false&token=fd76b008480dc5035bc541bd17e85584%3AOO9pTbSV-uznhA6tJqYUq4xQFQW4Q"
+"RnKkraTiZN17fl7InRpbWUiOjE3MDE0NTkzNDcsInR5cGUiOiJjc3JmIiwibm9uY2UiOiIzYWZjYjMxNThjNDk1NDlmIn0"

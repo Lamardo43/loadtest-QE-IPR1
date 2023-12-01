@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: getHTML",
+                "infFile": "t7.inf",
+                "time": 1701456393692
+            }
+        ],
+        "transactions": []
+    }
+]

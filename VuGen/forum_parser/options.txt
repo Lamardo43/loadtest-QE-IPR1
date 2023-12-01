@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\klim3\Downloads\Telegram Desktop\LR
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\klim3\downloads\telegram desktop\lr\\logfile.log
+c:\users\klim3\downloads\telegram desktop\lr\\combined_LR.c
+c:\users\klim3\downloads\telegram desktop\lr\\pre_cci.c

@@ -1,0 +1,10 @@
+GET /cgi-bin/logout?next=1&lang=ru_RU&page=https%3A%2F%2Fmail.ru%2F%3Ffrom%3Dlogout HTTP/1.1
+Referer: https://e.mail.ru/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: auth.mail.ru
+Cookie: act=dc806ad52bee43e3a9166fe0b2aafebc; o=zerkalo102@mail.ru:2698:gDAI.s|:2092:MQA=.m; oid=7JUTJGwy3uefhRtGtjhpb; mrcu=084E656A35916865DD7B7D66A9B9; p=2M4CAF0vAhIA; i=AQCSNWplAQBdBgUCAQA=; searchuid=6960716401701459346; GarageID=86d34e957d9f4a6c9bdb222a98322689; Mpop=1701459347:4472475a416468031905000017031f051c054f6c5150445e05190401041d4b5c425c505556090102105a545e591f4642:zerkalo102@mail.ru:; ssdc=14c1e9d5881c441294fe7063e6b9aa36; ssdc_info=14c1:0:1701459347; t=obLD1AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAACAAAEBygcA; s=; mrhc=VcHZIZLrjagtBWDLg0QWOD/G9IkAsw77Uig6+WX0kh8=
+

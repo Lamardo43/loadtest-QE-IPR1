@@ -1,0 +1,73 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: mail.ru",
+                "infFile": "t3.inf",
+                "time": 1701455621899
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: login",
+                "infFile": "t5.inf",
+                "time": 1701455622435
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: auth",
+                "infFile": "t6.inf",
+                "time": 1701455623102
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: short_2",
+                "infFile": "t8.inf",
+                "time": 1701455623272
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: send",
+                "infFile": "t9.inf",
+                "time": 1701455623696
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: logout",
+                "infFile": "t10.inf",
+                "time": 1701455624552
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_mainPage",
+                "rawStartTime": 1701455620531,
+                "rawEndTime": 1701455621916,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1049966812133789
+            },
+            {
+                "transactionName": "2_login",
+                "rawStartTime": 1701455621931,
+                "rawEndTime": 1701455623117,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01550745964050293
+            },
+            {
+                "transactionName": "3_message",
+                "rawStartTime": 1701455623133,
+                "rawEndTime": 1701455623711,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008296489715576172
+            },
+            {
+                "transactionName": "4_logout",
+                "rawStartTime": 1701455623727,
+                "rawEndTime": 1701455624567,
+                "thinkTime": 0.0,
+                "wastedTime": 0.016088485717773439
+            }
+        ]
+    }
+]

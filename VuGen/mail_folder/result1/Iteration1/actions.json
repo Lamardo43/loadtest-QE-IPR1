@@ -1,0 +1,67 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: mail.ru",
+                "infFile": "t2.inf",
+                "time": 1701459346089
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: auth",
+                "infFile": "t3.inf",
+                "time": 1701459346822
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: short_2",
+                "infFile": "t5.inf",
+                "time": 1701459346975
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: add",
+                "infFile": "t6.inf",
+                "time": 1701459347069
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: logout",
+                "infFile": "t7.inf",
+                "time": 1701459347974
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_transaction",
+                "rawStartTime": 1701459344763,
+                "rawEndTime": 1701459346105,
+                "thinkTime": 0.0,
+                "wastedTime": 0.11881256103515625
+            },
+            {
+                "transactionName": "2_transaction",
+                "rawStartTime": 1701459346120,
+                "rawEndTime": 1701459346838,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005453586578369141
+            },
+            {
+                "transactionName": "3_transaction",
+                "rawStartTime": 1701459346855,
+                "rawEndTime": 1701459347072,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008305549621582032
+            },
+            {
+                "transactionName": "4_transaction",
+                "rawStartTime": 1701459347088,
+                "rawEndTime": 1701459347977,
+                "thinkTime": 0.0,
+                "wastedTime": 0.015201330184936524
+            }
+        ]
+    }
+]

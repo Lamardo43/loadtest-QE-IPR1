@@ -1,0 +1,22 @@
+HTTP/2.0 200
+Status: 200
+server: nginx
+date: Fri, 01 Dec 2023 18:33:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 172
+x-mru-request-id: 5cb935f8-e387-92ea-bb4f-50a797efa17f
+x-mru-k8s-pod: mpop-sendmsg-5487bb465f-twgh5
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+x-envoy-upstream-service-time: 349
+x-frame-options: SAMEORIGIN
+x-host: f187.i.mail.ru
+x-xss-protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+x-etime: 0.350
+x-content-type-options: nosniff
+strict-transport-security: max-age=16070400; includeSubDomains; preload
+accept-ch: Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Model, Sec-CH-UA-Full-Version-List
+critical-ch: Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Model, Sec-CH-UA-Full-Version-List
+cache-control: no-cache, private
+x-comscore: pageview_candidate
+x-scheme: https
+
